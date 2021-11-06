@@ -12,6 +12,8 @@ Detecting if a car is going to crash and warning the driver. Built for UB Hackin
 ## References
 - ClearCore Documentation: https://teknic-inc.github.io/ClearCore-library/
 - For ultrasonic sensor: https://www.youtube.com/watch?v=ZejQOX69K5M&ab_channel=HowToMechatronics
+- For buzzer: https://www.instructables.com/Arduino-YL-44-Buzzer-module/
+- For vibrator: http://www.learningaboutelectronics.com/Articles/Vibration-motor-circuit.php
 
 ## Materials Used
 - ClearCore
