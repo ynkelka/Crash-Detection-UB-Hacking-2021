@@ -7,6 +7,7 @@ Detecting if a car is going to crash and warning the driver. Built for UB Hackin
 
 ## References
 - ClearCore Documentation: https://teknic-inc.github.io/ClearCore-library/
+- For ultrasonic sensor: https://www.youtube.com/watch?v=ZejQOX69K5M&ab_channel=HowToMechatronics
 
 ## Materials Used
 - ClearCore
