@@ -16,8 +16,5 @@ Detecting if a car is going to crash and warning the driver. Built for UB Hackin
 - Ultrasonic sensor
 - Motor
 
-## Features
-
-
 ## Ideas for Improvement
 The current system is only used for monitoring the front of the car. However, changing lanes can also be dangerous. Sensors and motors can be added on each side of the vehicle to detect horizontal speed and distance from other objects and warn the driver in a similar manner.
