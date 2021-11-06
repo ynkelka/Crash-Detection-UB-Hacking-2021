@@ -1,6 +1,9 @@
 # Crash-Detection-UB-Hacking-2021
 Detecting if a car is going to crash and warning the driver. Built for UB Hacking 2021. If a car is moving and there is something (human, car, animal, etc) within a dangerous distance, the system will warn the driver. 
 
+## Purpose
+I was walking across a crosswalk in the dark and the car didn't stop. I had to dodge. 
+
 ## Contributor List
 - Yash Kelkar
 - Jason Brown
