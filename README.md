@@ -2,7 +2,8 @@
 Detecting if a car is going to crash and warning the driver. Built for UB Hacking 2021. If a car is moving and there is something (human, car, animal, etc) within a dangerous distance, the system will warn the driver. 
 
 ## Purpose
-I was walking across a crosswalk in the dark and the car didn't stop. I had to dodge. 
+- I was walking across a crosswalk and the car didn't stop. I had to dodge. 
+- This system will provide a prototype to prevent drivers from hitting people or objects. Distracted driving is unfortunately a reality and this system will be able to get their attention so they can act accordingly. 
 
 ## Contributor List
 - Yash Kelkar
