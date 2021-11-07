@@ -18,6 +18,13 @@ Detecting if a car is going to crash and warning the driver. Built for UB Hackin
 - Vibration Motor 
 - Ultrasonic sensor
 
+## Build It Yourself
+- Vcc and Ground to Vcc and Ground rails of breadboard
+- Pin 2 for ultrasonic sensor trig
+- Pin 3 for ultrasonic sensor echo
+- Ultrasonic sensor Vcc and Ground in the Vcc and ground rails of breadboard
+- Pin 4 for vibration motor input
+- Vibration motor ground to ground rail of breadboard
 
 ## Ideas for Improvement
 - The current system is only used for monitoring the front of the car. However, changing lanes can also be dangerous. Sensors and motors can be added on each side of the vehicle to detect horizontal speed and distance from other objects and warn the driver in a similar manner.
