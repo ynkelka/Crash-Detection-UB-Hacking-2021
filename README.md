@@ -28,4 +28,5 @@ Detecting if a car is going to crash and warning the driver. Built for UB Hackin
 
 ## Ideas for Improvement
 - The current system is only used for monitoring the front of the car. However, changing lanes can also be dangerous. Sensors and motors can be added on each side of the vehicle to detect horizontal speed and distance from other objects and warn the driver in a similar manner.
-- Get the buzzer and motor to actually work so that speed can be detected and it makes sound along along with vibrating.
+- Implement a buzzer, accelerometer/gyro, and motor so that speed can be detected and it makes sound along along with vibrating.
+- Auto-apply brakes when the car gets too close
